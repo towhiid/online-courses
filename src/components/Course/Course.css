@@ -1,0 +1,10 @@
+.course{
+    display: flex;
+    gap: 100px;
+    margin: 5px 5px 0 10px;
+    padding: 10px;
+    border-bottom: 1px solid lightgray;
+}
+.course img{
+    height: 100px;
+}
