@@ -1,9 +1,11 @@
 .main-container{
     display: flex;
+    
 }
 .course-container{
     width: 70%;
-    margin: 0 5px 0 20px;
+    margin: 5px 20px;
     border-right: 1px solid lightgray;
+    justify-content: space-between;
 
 }
